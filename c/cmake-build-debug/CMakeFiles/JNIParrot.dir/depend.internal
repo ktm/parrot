@@ -4,5 +4,5 @@
 CMakeFiles/JNIParrot.dir/library.c.o
  /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/include/darwin/jni_md.h
  /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/include/jni.h
- /Users/ktm/src/parrot/C/library.c
- /Users/ktm/src/parrot/C/library.h
+ /Users/ktm/src/parrot/c/library.c
+ /Users/ktm/src/parrot/c/library.h

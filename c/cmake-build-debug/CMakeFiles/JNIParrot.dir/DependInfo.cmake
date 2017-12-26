@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/ktm/src/parrot/C/library.c" "/Users/ktm/src/parrot/C/cmake-build-debug/CMakeFiles/JNIParrot.dir/library.c.o"
+  "/Users/ktm/src/parrot/c/library.c" "/Users/ktm/src/parrot/c/cmake-build-debug/CMakeFiles/JNIParrot.dir/library.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

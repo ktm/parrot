@@ -16,13 +16,13 @@ stdarg.h
 jni_md.h
 /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/include/jni_md.h
 
-/Users/ktm/src/parrot/C/library.c
+/Users/ktm/src/parrot/c/library.c
 library.h
-/Users/ktm/src/parrot/C/library.h
+/Users/ktm/src/parrot/c/library.h
 stdio.h
 -
 
-/Users/ktm/src/parrot/C/library.h
+/Users/ktm/src/parrot/c/library.h
 jni.h
 -
 

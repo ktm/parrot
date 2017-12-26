@@ -39,8 +39,8 @@
             <state relative-caret-position="0">
               <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
               <folding>
-                <element signature="e#288#300#0" expanded="true" />
-                <element signature="e#573#574#0" expanded="true" />
+                <element signature="e#288#300#0" expanded="false" />
+                <element signature="e#573#574#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -49,7 +49,7 @@
       <file leaf-file-name="library.c" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/library.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
+            <state relative-caret-position="171">
               <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
               <folding />
             </state>
@@ -68,8 +68,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1824" />
-    <option name="y" value="-12" />
+    <option name="x" value="1746" />
+    <option name="y" value="-41" />
     <option name="width" value="1471" />
     <option name="height" value="873" />
   </component>
@@ -93,11 +93,7 @@
           <expand>
             <path>
               <item name="JNIParrot" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="JNIParrot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JNIParrot" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="c" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -144,15 +140,16 @@
       <option name="presentableId" value="Default" />
       <updated>1514314030360</updated>
       <workItem from="1514314031498" duration="1217000" />
-      <workItem from="1514323353061" duration="25000" />
+      <workItem from="1514323353061" duration="139000" />
+      <workItem from="1514323612034" duration="10000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1242000" />
+    <option name="totallyTimeSpent" value="1366000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1824" y="-12" width="1471" height="873" extended-state="0" />
+    <frame x="1746" y="-41" width="1471" height="873" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32630864" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -182,6 +179,33 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+          <folding>
+            <element signature="e#288#300#0" expanded="false" />
+            <element signature="e#573#574#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
           <folding />
@@ -193,8 +217,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
           <folding>
-            <element signature="e#288#300#0" expanded="true" />
-            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#288#300#0" expanded="false" />
+            <element signature="e#573#574#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -219,8 +243,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
           <folding>
-            <element signature="e#288#300#0" expanded="true" />
-            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#288#300#0" expanded="false" />
+            <element signature="e#573#574#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -229,13 +253,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1740">
           <caret line="107" column="26" lean-forward="true" selection-start-line="107" selection-start-column="26" selection-end-line="107" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/library.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
+        <state relative-caret-position="171">
           <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding />
         </state>
