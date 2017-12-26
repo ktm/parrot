@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -dynamiclib -Wl,-headerpad_max_install_names  -o libJNIParrot.dylib -install_name @rpath/libJNIParrot.dylib CMakeFiles/JNIParrot.dir/library.c.o 

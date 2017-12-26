@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/include/darwin/jni_md.h
+
+/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/include/jni.h
+stdio.h
+-
+stdarg.h
+-
+jni_md.h
+/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/include/jni_md.h
+
+/Users/ktm/src/parrot/C/library.c
+library.h
+/Users/ktm/src/parrot/C/library.h
+stdio.h
+-
+
+/Users/ktm/src/parrot/C/library.h
+jni.h
+-
+
